@@ -1,0 +1,18 @@
+video:
+  source: "camera"
+  input_path: "data/input_video.avi"
+  camera_id: 0
+  output_dir: "data/output"
+  frame_width: 640
+  fps: 20.0
+detector:
+  min_contour_area: 300
+  blur_size: 11
+  threshold_value: 30
+  dilate_iterations: 1
+  motion_duration_threshold: 2.0  # seconds
+yolo:
+  model_path: "yolov8n.pt"
+log:
+  log_dir: "logs"
+

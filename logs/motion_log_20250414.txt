@@ -1,0 +1,1833 @@
+2025-04-14 21:52:44,354 - \u0110ã m\u1edf ngu\u1ed3n thành công: Camera ID: 0
+2025-04-14 22:05:37,726 - \u0110ã m\u1edf ngu\u1ed3n thành công: Camera ID: 0
+2025-04-14 22:05:38,477 - FPS: 13.36
+2025-04-14 22:05:38,815 - FPS: 18.41
+2025-04-14 22:05:39,148 - FPS: 21.14
+2025-04-14 22:09:51,893 - \u0110ã m\u1edf ngu\u1ed3n thành công: Camera ID: 0
+2025-04-14 22:09:52,464 - FPS: 17.51
+2025-04-14 22:09:52,539 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220952.mp4
+2025-04-14 22:09:52,554 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,585 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,620 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,651 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,672 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,700 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,722 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220952.jpg
+2025-04-14 22:09:52,753 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:52,782 - FPS: 22.50
+2025-04-14 22:09:53,083 - FPS: 25.21
+2025-04-14 22:09:53,421 - FPS: 26.19
+2025-04-14 22:09:53,754 - FPS: 26.86
+2025-04-14 22:09:54,078 - FPS: 27.46
+2025-04-14 22:09:54,412 - FPS: 27.79
+2025-04-14 22:09:54,751 - FPS: 28.00
+2025-04-14 22:09:54,882 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220954.mp4
+2025-04-14 22:09:54,885 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220954.jpg
+2025-04-14 22:09:54,914 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220954.jpg
+2025-04-14 22:09:54,995 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220954.jpg
+2025-04-14 22:09:55,031 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:55,050 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220955.mp4
+2025-04-14 22:09:55,053 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,083 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,116 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,119 - FPS: 27.90
+2025-04-14 22:09:55,151 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,185 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,221 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,251 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,281 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,314 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:55,444 - FPS: 28.16
+2025-04-14 22:09:55,774 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220955.mp4
+2025-04-14 22:09:55,776 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,780 - FPS: 28.30
+2025-04-14 22:09:55,830 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,863 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,898 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:55,917 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220955.mp4
+2025-04-14 22:09:55,920 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,948 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:55,980 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,015 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,048 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,082 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,112 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,115 - FPS: 28.42
+2025-04-14 22:09:56,147 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,194 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,230 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,264 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220955.jpg
+2025-04-14 22:09:56,312 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:56,346 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220956.mp4
+2025-04-14 22:09:56,349 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,381 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,414 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,453 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,483 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,488 - FPS: 28.30
+2025-04-14 22:09:56,515 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,541 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,566 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,605 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,647 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,684 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,714 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,747 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:56,764 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220956.mp4
+2025-04-14 22:09:56,767 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,796 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,799 - FPS: 28.54
+2025-04-14 22:09:56,830 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,863 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,896 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,931 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,962 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:56,997 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:57,028 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:57,063 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:57,094 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:57,129 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220956.jpg
+2025-04-14 22:09:57,132 - FPS: 28.63
+2025-04-14 22:09:57,163 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:57,196 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220957.mp4
+2025-04-14 22:09:57,199 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,229 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,263 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,296 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,329 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,362 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,393 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,418 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,448 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,451 - FPS: 28.79
+2025-04-14 22:09:57,478 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,521 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,551 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,582 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:57,601 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220957.mp4
+2025-04-14 22:09:57,604 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,630 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,665 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,697 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,730 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,781 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,784 - FPS: 28.86
+2025-04-14 22:09:57,815 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,844 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,880 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,911 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,953 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220957.jpg
+2025-04-14 22:09:57,982 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:58,013 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220958.mp4
+2025-04-14 22:09:58,016 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,050 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,082 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,114 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,118 - FPS: 28.92
+2025-04-14 22:09:58,147 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,183 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,217 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,246 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,281 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,308 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,359 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,398 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,428 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:58,464 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220958.mp4
+2025-04-14 22:09:58,468 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,474 - FPS: 28.87
+2025-04-14 22:09:58,493 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,527 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,561 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,595 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,629 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,662 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,697 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,730 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,762 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,793 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,796 - FPS: 28.97
+2025-04-14 22:09:58,833 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,861 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:58,894 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220958.mp4
+2025-04-14 22:09:58,898 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,931 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,964 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:58,997 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,032 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,065 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,091 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,129 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,132 - FPS: 29.01
+2025-04-14 22:09:59,165 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,197 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,234 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,277 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220958.jpg
+2025-04-14 22:09:59,310 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:59,327 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220959.mp4
+2025-04-14 22:09:59,329 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,360 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,395 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,430 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,460 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,465 - FPS: 29.06
+2025-04-14 22:09:59,496 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,524 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,559 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,596 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,637 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,676 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,713 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:09:59,744 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_220959.mp4
+2025-04-14 22:09:59,747 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,776 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,808 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,811 - FPS: 29.05
+2025-04-14 22:09:59,843 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,877 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,909 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,943 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:09:59,978 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:10:00,023 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:10:00,060 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:10:00,084 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:10:00,111 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_220959.jpg
+2025-04-14 22:10:00,148 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:00,149 - FPS: 29.07
+2025-04-14 22:10:00,179 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221000.mp4
+2025-04-14 22:10:00,183 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,213 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,245 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,277 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,312 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,345 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,377 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,415 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,446 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,480 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,483 - FPS: 29.11
+2025-04-14 22:10:00,509 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,542 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,579 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:00,611 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221000.mp4
+2025-04-14 22:10:00,615 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,642 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,676 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:00,697 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221000.mp4
+2025-04-14 22:10:00,700 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,728 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,762 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,796 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,799 - FPS: 29.19
+2025-04-14 22:10:00,828 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,863 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,894 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,926 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,959 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:00,996 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,025 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,061 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,093 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,129 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,133 - FPS: 29.22
+2025-04-14 22:10:01,157 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,198 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,234 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,263 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,295 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,328 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,365 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,394 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,429 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,462 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,465 - FPS: 29.25
+2025-04-14 22:10:01,498 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,527 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,561 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,593 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,626 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,660 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,696 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,725 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,759 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,791 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,793 - FPS: 29.29
+2025-04-14 22:10:01,813 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,841 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,876 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,908 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,935 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:01,967 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,000 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,030 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,061 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,095 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,098 - FPS: 29.40
+2025-04-14 22:10:02,132 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,178 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,212 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,244 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,272 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,308 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,344 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,375 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,412 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,443 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,446 - FPS: 29.38
+2025-04-14 22:10:02,477 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,512 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,543 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,578 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221000.jpg
+2025-04-14 22:10:02,608 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:02,763 - FPS: 29.44
+2025-04-14 22:10:02,898 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221002.mp4
+2025-04-14 22:10:02,901 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:02,930 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:02,961 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:02,992 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,041 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,072 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,105 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,108 - FPS: 29.43
+2025-04-14 22:10:03,139 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,174 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,206 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,230 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,265 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,295 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,326 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,364 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,394 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,445 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,450 - FPS: 29.42
+2025-04-14 22:10:03,473 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,509 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,543 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,575 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,606 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,639 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,663 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,703 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,744 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,780 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,789 - FPS: 29.42
+2025-04-14 22:10:03,811 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,839 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,875 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,907 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,940 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:03,974 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,008 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,038 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,075 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,107 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,110 - FPS: 29.47
+2025-04-14 22:10:04,138 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,172 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,206 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,242 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,272 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,305 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,339 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,372 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,405 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,437 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,440 - FPS: 29.49
+2025-04-14 22:10:04,471 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,505 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,543 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,571 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,607 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,643 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,671 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,704 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,739 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,773 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221002.jpg
+2025-04-14 22:10:04,776 - FPS: 29.50
+2025-04-14 22:10:04,807 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:05,089 - FPS: 29.56
+2025-04-14 22:10:05,425 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221005.mp4
+2025-04-14 22:10:05,429 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:05,432 - FPS: 29.54
+2025-04-14 22:10:05,454 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:05,491 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:05,524 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:05,575 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:05,758 - FPS: 29.57
+2025-04-14 22:10:05,859 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221005.mp4
+2025-04-14 22:10:05,863 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:05,890 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:05,923 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:05,954 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221005.mp4
+2025-04-14 22:10:05,958 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,002 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,038 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,064 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,096 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,100 - FPS: 29.56
+2025-04-14 22:10:06,128 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,158 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,203 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,237 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,269 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,302 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,321 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,353 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,388 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,442 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,445 - FPS: 29.55
+2025-04-14 22:10:06,473 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,502 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,535 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,561 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,591 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,623 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,656 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,686 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,720 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,752 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,755 - FPS: 29.61
+2025-04-14 22:10:06,785 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,831 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,861 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,895 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,929 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,959 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:06,993 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221005.jpg
+2025-04-14 22:10:07,022 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:07,088 - FPS: 29.62
+2025-04-14 22:10:07,117 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221007.mp4
+2025-04-14 22:10:07,120 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,151 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,186 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,222 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,267 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,300 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,330 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,370 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,402 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,435 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,438 - FPS: 29.59
+2025-04-14 22:10:07,468 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,489 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,520 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,554 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,587 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,621 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,666 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,694 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,728 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,758 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,761 - FPS: 29.62
+2025-04-14 22:10:07,793 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,825 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,866 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,902 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,936 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:07,970 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,003 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,038 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,070 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,106 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,109 - FPS: 29.60
+2025-04-14 22:10:08,138 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,172 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,220 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,252 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,289 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,321 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,353 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,386 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,419 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,453 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,455 - FPS: 29.59
+2025-04-14 22:10:08,488 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,519 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,554 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,588 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,622 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,650 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,684 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,705 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,736 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,769 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,772 - FPS: 29.62
+2025-04-14 22:10:08,813 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,854 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,887 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,910 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,935 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:08,994 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221007.jpg
+2025-04-14 22:10:09,022 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:09,053 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221009.mp4
+2025-04-14 22:10:09,057 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,088 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,123 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,128 - FPS: 29.59
+2025-04-14 22:10:09,154 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,186 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,215 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,249 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,284 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,321 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,353 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,398 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,437 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,469 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:09,470 - FPS: 29.59
+2025-04-14 22:10:09,488 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221009.mp4
+2025-04-14 22:10:09,492 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,520 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,553 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,586 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,622 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,650 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,687 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,719 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,753 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,805 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,810 - FPS: 29.58
+2025-04-14 22:10:09,838 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,867 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:09,900 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221009.mp4
+2025-04-14 22:10:09,903 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,935 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:09,969 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,003 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,038 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,073 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,104 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,136 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,140 - FPS: 29.59
+2025-04-14 22:10:10,169 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,203 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,236 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,269 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221009.jpg
+2025-04-14 22:10:10,302 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:10,334 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221010.mp4
+2025-04-14 22:10:10,338 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,370 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,400 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,431 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,470 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,475 - FPS: 29.60
+2025-04-14 22:10:10,506 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,538 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,569 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,605 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,637 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,667 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,706 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,734 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:10,755 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221010.mp4
+2025-04-14 22:10:10,757 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,792 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,800 - FPS: 29.62
+2025-04-14 22:10:10,836 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,873 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,907 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,938 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:10,972 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:11,000 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:11,037 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:11,068 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:11,098 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:11,120 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221010.jpg
+2025-04-14 22:10:11,123 - FPS: 29.64
+2025-04-14 22:10:11,152 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:11,184 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221011.mp4
+2025-04-14 22:10:11,188 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,216 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,250 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,284 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,318 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,351 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,384 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,416 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,451 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,454 - FPS: 29.65
+2025-04-14 22:10:11,487 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,522 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,552 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:11,582 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221011.mp4
+2025-04-14 22:10:11,586 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,617 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,652 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,683 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,716 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,751 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,777 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,781 - FPS: 29.67
+2025-04-14 22:10:11,820 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,851 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,882 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,921 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,954 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221011.jpg
+2025-04-14 22:10:11,988 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:12,018 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221012.mp4
+2025-04-14 22:10:12,022 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,050 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,084 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,106 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,109 - FPS: 29.68
+2025-04-14 22:10:12,131 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,178 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,212 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,254 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221012.jpg
+2025-04-14 22:10:12,281 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:12,423 - FPS: 29.71
+2025-04-14 22:10:12,781 - FPS: 29.68
+2025-04-14 22:10:13,100 - FPS: 29.71
+2025-04-14 22:10:13,438 - FPS: 29.71
+2025-04-14 22:10:13,696 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221013.mp4
+2025-04-14 22:10:13,699 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,724 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,780 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,783 - FPS: 29.69
+2025-04-14 22:10:13,814 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,838 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,874 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,903 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,934 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:13,968 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:14,003 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:14,050 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:14,080 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221013.jpg
+2025-04-14 22:10:14,113 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:14,114 - FPS: 29.70
+2025-04-14 22:10:14,142 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221014.mp4
+2025-04-14 22:10:14,145 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,178 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,210 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,246 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,279 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,303 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,334 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,367 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,399 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,432 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,435 - FPS: 29.72
+2025-04-14 22:10:14,480 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,512 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,546 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:14,578 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221014.mp4
+2025-04-14 22:10:14,580 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,613 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,638 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,669 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,704 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,736 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,767 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,770 - FPS: 29.72
+2025-04-14 22:10:14,798 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,835 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,865 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,912 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:14,945 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:14,978 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221014.mp4
+2025-04-14 22:10:14,982 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:15,014 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:15,044 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221014.jpg
+2025-04-14 22:10:15,078 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:15,100 - FPS: 29.73
+2025-04-14 22:10:15,440 - FPS: 29.73
+2025-04-14 22:10:15,777 - FPS: 29.73
+2025-04-14 22:10:16,096 - FPS: 29.75
+2025-04-14 22:10:16,429 - FPS: 29.75
+2025-04-14 22:10:16,670 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221016.mp4
+2025-04-14 22:10:16,675 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,709 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,742 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,766 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,769 - FPS: 29.75
+2025-04-14 22:10:16,800 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,838 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,863 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,898 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,929 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:16,961 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,012 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,044 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,073 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,111 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,114 - FPS: 29.74
+2025-04-14 22:10:17,145 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,177 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,211 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,247 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,276 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,308 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,346 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,379 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,414 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,448 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,452 - FPS: 29.74
+2025-04-14 22:10:17,481 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,512 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221016.jpg
+2025-04-14 22:10:17,545 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:17,665 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221017.mp4
+2025-04-14 22:10:17,669 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221017.jpg
+2025-04-14 22:10:17,711 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221017.jpg
+2025-04-14 22:10:17,746 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221017.jpg
+2025-04-14 22:10:17,789 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:17,790 - FPS: 29.73
+2025-04-14 22:10:18,093 - FPS: 29.77
+2025-04-14 22:10:18,192 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221018.mp4
+2025-04-14 22:10:18,195 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,226 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:18,303 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221018.mp4
+2025-04-14 22:10:18,306 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,347 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:18,427 - FPS: 29.77
+2025-04-14 22:10:18,526 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221018.mp4
+2025-04-14 22:10:18,528 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,562 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,593 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,627 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,662 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,703 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,740 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:18,773 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221018.mp4
+2025-04-14 22:10:18,775 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,778 - FPS: 29.76
+2025-04-14 22:10:18,808 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,846 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,875 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,908 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,942 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:18,980 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,008 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,043 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,078 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,108 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,112 - FPS: 29.76
+2025-04-14 22:10:19,149 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,175 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,201 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,232 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,263 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,295 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,329 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,364 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221018.jpg
+2025-04-14 22:10:19,394 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:19,428 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221019.mp4
+2025-04-14 22:10:19,430 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,435 - FPS: 29.77
+2025-04-14 22:10:19,459 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,492 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,528 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,572 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,601 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,635 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,676 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,710 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,743 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,773 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,775 - FPS: 29.77
+2025-04-14 22:10:19,809 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,844 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,875 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,907 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,939 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:19,977 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,006 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,038 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,071 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,104 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,106 - FPS: 29.77
+2025-04-14 22:10:20,139 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,173 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,206 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,240 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,272 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,305 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,338 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,371 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,406 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,439 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,442 - FPS: 29.77
+2025-04-14 22:10:20,477 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,504 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,528 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,563 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,593 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,627 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,660 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,688 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,724 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,756 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,760 - FPS: 29.79
+2025-04-14 22:10:20,791 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,836 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,874 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,909 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,937 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:20,975 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,011 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,045 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,076 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,110 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,117 - FPS: 29.77
+2025-04-14 22:10:21,144 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,178 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,203 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,241 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,274 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,310 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,337 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221019.jpg
+2025-04-14 22:10:21,361 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:21,419 - FPS: 29.80
+2025-04-14 22:10:21,453 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221021.mp4
+2025-04-14 22:10:21,456 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,489 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:21,693 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221021.mp4
+2025-04-14 22:10:21,697 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,726 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,758 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,761 - FPS: 29.80
+2025-04-14 22:10:21,792 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,825 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,857 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,890 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,920 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,955 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:21,987 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,022 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,055 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,100 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,104 - FPS: 29.79
+2025-04-14 22:10:22,141 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,175 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,207 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,259 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,291 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,325 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,358 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,386 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,408 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,440 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,444 - FPS: 29.79
+2025-04-14 22:10:22,475 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,506 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,539 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,569 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,606 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,643 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,673 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,706 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,742 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,778 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,783 - FPS: 29.78
+2025-04-14 22:10:22,812 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,841 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,879 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,909 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,943 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:22,996 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221021.jpg
+2025-04-14 22:10:23,027 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:23,054 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221023.mp4
+2025-04-14 22:10:23,059 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,090 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,123 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:23,124 - FPS: 29.78
+2025-04-14 22:10:23,395 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221023.mp4
+2025-04-14 22:10:23,400 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,439 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:23,469 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221023.mp4
+2025-04-14 22:10:23,473 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,478 - FPS: 29.76
+2025-04-14 22:10:23,510 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,538 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,572 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,608 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,639 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,674 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,703 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,736 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,770 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,806 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,811 - FPS: 29.76
+2025-04-14 22:10:23,836 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,862 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:23,888 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221023.mp4
+2025-04-14 22:10:23,892 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,921 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,952 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:23,988 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,020 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,055 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,090 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,120 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,122 - FPS: 29.79
+2025-04-14 22:10:24,157 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,186 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,225 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,258 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221023.jpg
+2025-04-14 22:10:24,290 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:24,321 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221024.mp4
+2025-04-14 22:10:24,325 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,354 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,380 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,406 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,439 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:24,440 - FPS: 29.80
+2025-04-14 22:10:24,574 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221024.mp4
+2025-04-14 22:10:24,578 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,618 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,657 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,690 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,721 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:24,740 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221024.mp4
+2025-04-14 22:10:24,743 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,773 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,777 - FPS: 29.80
+2025-04-14 22:10:24,809 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,842 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,878 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,907 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,936 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:24,975 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:25,006 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:25,039 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221024.jpg
+2025-04-14 22:10:25,092 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:25,115 - FPS: 29.80
+2025-04-14 22:10:25,437 - FPS: 29.81
+2025-04-14 22:10:25,775 - FPS: 29.81
+2025-04-14 22:10:26,080 - FPS: 29.84
+2025-04-14 22:10:26,422 - FPS: 29.83
+2025-04-14 22:10:26,670 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221026.mp4
+2025-04-14 22:10:26,673 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,704 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,740 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,788 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,791 - FPS: 29.80
+2025-04-14 22:10:26,818 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:26,850 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221026.mp4
+2025-04-14 22:10:26,853 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,885 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,919 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,953 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:26,983 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221026.jpg
+2025-04-14 22:10:27,017 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:27,104 - FPS: 29.82
+2025-04-14 22:10:27,311 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221027.mp4
+2025-04-14 22:10:27,315 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,381 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,419 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,453 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,457 - FPS: 29.81
+2025-04-14 22:10:27,504 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,535 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,568 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,602 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,633 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,665 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,699 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:27,747 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221027.mp4
+2025-04-14 22:10:27,750 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,781 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221027.jpg
+2025-04-14 22:10:27,784 - FPS: 29.81
+2025-04-14 22:10:27,817 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:28,102 - FPS: 29.83
+2025-04-14 22:10:28,428 - FPS: 29.83
+2025-04-14 22:10:28,767 - FPS: 29.83
+2025-04-14 22:10:29,102 - FPS: 29.83
+2025-04-14 22:10:29,441 - FPS: 29.83
+2025-04-14 22:10:29,775 - FPS: 29.83
+2025-04-14 22:10:30,096 - FPS: 29.84
+2025-04-14 22:10:30,433 - FPS: 29.84
+2025-04-14 22:10:30,766 - FPS: 29.84
+2025-04-14 22:10:31,102 - FPS: 29.84
+2025-04-14 22:10:31,440 - FPS: 29.84
+2025-04-14 22:10:31,729 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221031.mp4
+2025-04-14 22:10:31,733 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,764 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,766 - FPS: 29.84
+2025-04-14 22:10:31,794 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,830 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,873 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,906 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,938 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:31,970 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,002 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,034 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,070 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,096 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,101 - FPS: 29.85
+2025-04-14 22:10:32,128 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,161 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,195 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,229 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221031.jpg
+2025-04-14 22:10:32,277 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:32,431 - FPS: 29.85
+2025-04-14 22:10:32,468 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221032.mp4
+2025-04-14 22:10:32,474 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221032.jpg
+2025-04-14 22:10:32,497 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221032.jpg
+2025-04-14 22:10:32,529 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221032.jpg
+2025-04-14 22:10:32,564 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221032.jpg
+2025-04-14 22:10:32,597 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:32,765 - FPS: 29.85
+2025-04-14 22:10:33,086 - FPS: 29.86
+2025-04-14 22:10:33,268 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221033.mp4
+2025-04-14 22:10:33,272 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,300 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,327 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,360 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,400 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,425 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,428 - FPS: 29.85
+2025-04-14 22:10:33,460 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,490 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221033.jpg
+2025-04-14 22:10:33,527 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:33,756 - FPS: 29.86
+2025-04-14 22:10:34,095 - FPS: 29.86
+2025-04-14 22:10:34,428 - FPS: 29.86
+2025-04-14 22:10:34,658 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221034.mp4
+2025-04-14 22:10:34,664 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,692 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,725 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,750 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,754 - FPS: 29.86
+2025-04-14 22:10:34,782 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,832 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,862 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,899 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,931 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,961 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:34,992 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,023 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,058 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,091 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,093 - FPS: 29.86
+2025-04-14 22:10:35,126 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,159 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,191 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,225 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,263 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,295 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,327 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,358 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,392 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,424 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,426 - FPS: 29.86
+2025-04-14 22:10:35,461 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,493 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,524 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,559 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,591 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221034.jpg
+2025-04-14 22:10:35,625 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:35,663 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221035.mp4
+2025-04-14 22:10:35,665 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,694 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,729 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,758 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,761 - FPS: 29.86
+2025-04-14 22:10:35,790 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,825 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,857 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,893 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,922 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,957 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:35,991 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,022 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,047 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,096 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,099 - FPS: 29.86
+2025-04-14 22:10:36,127 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,160 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,193 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,225 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,259 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,290 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,323 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,357 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,390 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,424 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,427 - FPS: 29.87
+2025-04-14 22:10:36,455 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,477 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,528 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,564 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,594 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221035.jpg
+2025-04-14 22:10:36,627 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:36,750 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221036.mp4
+2025-04-14 22:10:36,753 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,756 - FPS: 29.87
+2025-04-14 22:10:36,783 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,817 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,847 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,876 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,931 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,964 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:36,992 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:37,027 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221036.jpg
+2025-04-14 22:10:37,056 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:37,086 - FPS: 29.87
+2025-04-14 22:10:37,437 - FPS: 29.86
+2025-04-14 22:10:37,787 - FPS: 29.85
+2025-04-14 22:10:37,890 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221037.mp4
+2025-04-14 22:10:37,895 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:37,921 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:37,954 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:37,986 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,025 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,056 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,079 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,081 - FPS: 29.88
+2025-04-14 22:10:38,114 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,181 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,230 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221037.jpg
+2025-04-14 22:10:38,263 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:38,306 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221038.mp4
+2025-04-14 22:10:38,310 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,339 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,374 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,407 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,442 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:38,443 - FPS: 29.86
+2025-04-14 22:10:38,572 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221038.mp4
+2025-04-14 22:10:38,575 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,633 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,671 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,704 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:38,721 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221038.mp4
+2025-04-14 22:10:38,724 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,754 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,788 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,791 - FPS: 29.85
+2025-04-14 22:10:38,821 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,856 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,891 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,920 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,958 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:38,991 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221038.jpg
+2025-04-14 22:10:39,024 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:39,108 - FPS: 29.86
+2025-04-14 22:10:39,219 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221039.mp4
+2025-04-14 22:10:39,223 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,253 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,289 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,331 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,378 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,406 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,439 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,441 - FPS: 29.86
+2025-04-14 22:10:39,489 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,521 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:39,777 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221039.mp4
+2025-04-14 22:10:39,782 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,785 - FPS: 29.86
+2025-04-14 22:10:39,809 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,841 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,872 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,921 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,955 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221039.jpg
+2025-04-14 22:10:39,986 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:40,002 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221040.mp4
+2025-04-14 22:10:40,006 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,035 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,069 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,089 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,092 - FPS: 29.88
+2025-04-14 22:10:40,122 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:40,177 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221040.mp4
+2025-04-14 22:10:40,184 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,220 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,240 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,272 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,320 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,354 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,385 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:40,403 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221040.mp4
+2025-04-14 22:10:40,407 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,435 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,438 - FPS: 29.87
+2025-04-14 22:10:40,468 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,501 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,520 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,575 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,617 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,656 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,685 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,708 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,751 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,785 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,787 - FPS: 29.86
+2025-04-14 22:10:40,822 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:40,852 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221040.mp4
+2025-04-14 22:10:40,857 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,889 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,920 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221040.jpg
+2025-04-14 22:10:40,952 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:41,071 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221041.mp4
+2025-04-14 22:10:41,075 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,107 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,112 - FPS: 29.87
+2025-04-14 22:10:41,139 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,186 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,220 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,255 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:41,284 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221041.mp4
+2025-04-14 22:10:41,287 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,322 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,354 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,387 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,422 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:41,451 - FPS: 29.86
+2025-04-14 22:10:41,772 - FPS: 29.87
+2025-04-14 22:10:41,902 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221041.mp4
+2025-04-14 22:10:41,904 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:41,937 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:41,968 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221041.mp4
+2025-04-14 22:10:41,971 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:42,020 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:42,054 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221041.jpg
+2025-04-14 22:10:42,087 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:42,110 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221042.mp4
+2025-04-14 22:10:42,115 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,118 - FPS: 29.87
+2025-04-14 22:10:42,138 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,183 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,221 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,255 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:42,447 - FPS: 29.87
+2025-04-14 22:10:42,578 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221042.mp4
+2025-04-14 22:10:42,580 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,606 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,638 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,670 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,705 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,738 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,769 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221042.jpg
+2025-04-14 22:10:42,771 - FPS: 29.88
+2025-04-14 22:10:42,802 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:43,102 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221043.mp4
+2025-04-14 22:10:43,106 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,110 - FPS: 29.87
+2025-04-14 22:10:43,135 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,171 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,201 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,235 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,268 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,311 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,348 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,377 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,413 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,451 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,453 - FPS: 29.87
+2025-04-14 22:10:43,474 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,502 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,535 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,567 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,598 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,635 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,671 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,716 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,754 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,786 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:43,787 - FPS: 29.87
+2025-04-14 22:10:43,902 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221043.mp4
+2025-04-14 22:10:43,905 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,934 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,968 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:43,998 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,035 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,065 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,098 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,101 - FPS: 29.88
+2025-04-14 22:10:44,141 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,177 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,206 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221043.jpg
+2025-04-14 22:10:44,243 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:44,431 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221044.mp4
+2025-04-14 22:10:44,434 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221044.jpg
+2025-04-14 22:10:44,437 - FPS: 29.88
+2025-04-14 22:10:44,465 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221044.jpg
+2025-04-14 22:10:44,503 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221044.jpg
+2025-04-14 22:10:44,535 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221044.jpg
+2025-04-14 22:10:44,574 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221044.jpg
+2025-04-14 22:10:44,610 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:44,770 - FPS: 29.88
+2025-04-14 22:10:45,106 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221045.mp4
+2025-04-14 22:10:45,110 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,114 - FPS: 29.88
+2025-04-14 22:10:45,136 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,171 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,202 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,234 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,270 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,302 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,332 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,366 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,412 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,449 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,452 - FPS: 29.87
+2025-04-14 22:10:45,482 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,515 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,552 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,584 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,614 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,655 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,689 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,720 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,749 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,785 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,788 - FPS: 29.87
+2025-04-14 22:10:45,812 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,848 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,885 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,914 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,948 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:45,985 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,015 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,048 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,086 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,117 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,121 - FPS: 29.87
+2025-04-14 22:10:46,152 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,184 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,219 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,251 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,282 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,313 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,351 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221045.jpg
+2025-04-14 22:10:46,387 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:46,445 - FPS: 29.88
+2025-04-14 22:10:46,704 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221046.mp4
+2025-04-14 22:10:46,709 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,740 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,769 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,772 - FPS: 29.88
+2025-04-14 22:10:46,799 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,835 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,868 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,901 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,928 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,962 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:46,992 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,027 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,053 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,102 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,104 - FPS: 29.89
+2025-04-14 22:10:47,137 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,183 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,214 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,249 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,284 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,317 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,348 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221046.jpg
+2025-04-14 22:10:47,386 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:47,426 - FPS: 29.89
+2025-04-14 22:10:47,538 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221047.mp4
+2025-04-14 22:10:47,543 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,571 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,602 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,633 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,663 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,700 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,731 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,765 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,767 - FPS: 29.89
+2025-04-14 22:10:47,802 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221047.jpg
+2025-04-14 22:10:47,833 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:48,091 - FPS: 29.89
+2025-04-14 22:10:48,431 - FPS: 29.89
+2025-04-14 22:10:48,722 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221048.mp4
+2025-04-14 22:10:48,728 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221048.jpg
+2025-04-14 22:10:48,765 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:48,766 - FPS: 29.89
+2025-04-14 22:10:48,926 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221048.mp4
+2025-04-14 22:10:48,930 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221048.jpg
+2025-04-14 22:10:48,963 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221048.jpg
+2025-04-14 22:10:48,995 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221048.jpg
+2025-04-14 22:10:49,027 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221048.jpg
+2025-04-14 22:10:49,059 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:49,087 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221049.mp4
+2025-04-14 22:10:49,093 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,096 - FPS: 29.89
+2025-04-14 22:10:49,130 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,163 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,197 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,235 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,266 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,298 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,330 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,361 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,393 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,423 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,426 - FPS: 29.90
+2025-04-14 22:10:49,462 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,498 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,526 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,563 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,597 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,622 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,670 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,699 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,730 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,764 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,767 - FPS: 29.89
+2025-04-14 22:10:49,795 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,828 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,862 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,901 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,947 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:49,977 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,011 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,048 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,080 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,113 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,117 - FPS: 29.88
+2025-04-14 22:10:50,145 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,179 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,216 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,246 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,282 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,313 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,346 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,381 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,411 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,446 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,448 - FPS: 29.89
+2025-04-14 22:10:50,478 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,512 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,545 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,576 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,611 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,644 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,677 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,708 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,744 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,776 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,779 - FPS: 29.89
+2025-04-14 22:10:50,810 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,844 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,877 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,911 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,942 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,962 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:50,991 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:51,024 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:51,060 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:51,092 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:51,094 - FPS: 29.90
+2025-04-14 22:10:51,125 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:51,158 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221049.jpg
+2025-04-14 22:10:51,192 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:51,276 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221051.mp4
+2025-04-14 22:10:51,279 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,310 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,392 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,423 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:51,442 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221051.mp4
+2025-04-14 22:10:51,446 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,451 - FPS: 29.89
+2025-04-14 22:10:51,477 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:51,508 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221051.mp4
+2025-04-14 22:10:51,513 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,541 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,562 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,592 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,626 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,657 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,690 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,710 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:51,795 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221051.mp4
+2025-04-14 22:10:51,799 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,804 - FPS: 29.88
+2025-04-14 22:10:51,823 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221051.jpg
+2025-04-14 22:10:51,860 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:52,078 - FPS: 29.91
+2025-04-14 22:10:52,288 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221052.mp4
+2025-04-14 22:10:52,290 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,322 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,356 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,396 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,427 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,431 - FPS: 29.90
+2025-04-14 22:10:52,462 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,495 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,527 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,580 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,623 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,658 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,692 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:52,727 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221052.mp4
+2025-04-14 22:10:52,731 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,757 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,778 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,781 - FPS: 29.89
+2025-04-14 22:10:52,809 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,845 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,879 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,913 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,944 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:52,977 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:53,010 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221052.jpg
+2025-04-14 22:10:53,062 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:53,104 - FPS: 29.90
+2025-04-14 22:10:53,217 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221053.mp4
+2025-04-14 22:10:53,221 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,259 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,291 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,322 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,377 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,408 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,440 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,442 - FPS: 29.89
+2025-04-14 22:10:53,487 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,518 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,542 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:53,574 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221053.mp4
+2025-04-14 22:10:53,578 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,605 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,641 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,675 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,710 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,741 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,775 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,777 - FPS: 29.89
+2025-04-14 22:10:53,807 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,840 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,887 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,921 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:53,956 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:53,990 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221053.mp4
+2025-04-14 22:10:53,993 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,023 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,057 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,089 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,122 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,124 - FPS: 29.89
+2025-04-14 22:10:54,156 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,190 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,223 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,255 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,288 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,321 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221053.jpg
+2025-04-14 22:10:54,356 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:54,422 - FPS: 29.91
+2025-04-14 22:10:54,572 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221054.mp4
+2025-04-14 22:10:54,574 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221054.jpg
+2025-04-14 22:10:54,605 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221054.jpg
+2025-04-14 22:10:54,640 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:54,780 - FPS: 29.89
+2025-04-14 22:10:54,974 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221054.mp4
+2025-04-14 22:10:54,976 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221054.jpg
+2025-04-14 22:10:55,012 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:55,102 - FPS: 29.90
+2025-04-14 22:10:55,214 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221055.mp4
+2025-04-14 22:10:55,218 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,255 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:55,287 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221055.mp4
+2025-04-14 22:10:55,291 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,323 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,353 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,387 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,421 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,441 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,443 - FPS: 29.90
+2025-04-14 22:10:55,475 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,506 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,541 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,589 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,622 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,657 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:55,689 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221055.mp4
+2025-04-14 22:10:55,693 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,719 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,754 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:55,773 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221055.mp4
+2025-04-14 22:10:55,776 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,779 - FPS: 29.90
+2025-04-14 22:10:55,809 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:55,874 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221055.mp4
+2025-04-14 22:10:55,878 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,908 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,941 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:55,975 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:56,023 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:56,058 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221055.jpg
+2025-04-14 22:10:56,088 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:56,120 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221056.mp4
+2025-04-14 22:10:56,124 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,127 - FPS: 29.89
+2025-04-14 22:10:56,157 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,193 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,224 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,257 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,287 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,306 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,337 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,372 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,406 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,452 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,455 - FPS: 29.89
+2025-04-14 22:10:56,489 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,524 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:56,555 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221056.mp4
+2025-04-14 22:10:56,559 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,589 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,623 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,661 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,688 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,723 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,755 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,790 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,792 - FPS: 29.89
+2025-04-14 22:10:56,823 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,858 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,887 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,924 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:56,956 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:56,987 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221056.mp4
+2025-04-14 22:10:56,989 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,018 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,057 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,086 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,125 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,131 - FPS: 29.89
+2025-04-14 22:10:57,158 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,191 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,224 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,258 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,289 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,320 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221056.jpg
+2025-04-14 22:10:57,356 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:57,388 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221057.mp4
+2025-04-14 22:10:57,392 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,426 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,456 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,459 - FPS: 29.89
+2025-04-14 22:10:57,487 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,520 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,556 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,590 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221057.jpg
+2025-04-14 22:10:57,624 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:57,775 - FPS: 29.90
+2025-04-14 22:10:58,095 - FPS: 29.91
+2025-04-14 22:10:58,431 - FPS: 29.91
+2025-04-14 22:10:58,768 - FPS: 29.91
+2025-04-14 22:10:59,102 - FPS: 29.91
+2025-04-14 22:10:59,435 - FPS: 29.91
+2025-04-14 22:10:59,568 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221059.mp4
+2025-04-14 22:10:59,571 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,601 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,634 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,667 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,701 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,735 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:10:59,766 - FPS: 29.91
+2025-04-14 22:10:59,837 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_221059.mp4
+2025-04-14 22:10:59,840 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,869 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,902 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,934 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,969 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:10:59,998 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:11:00,034 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:11:00,067 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:11:00,101 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:11:00,104 - FPS: 29.91
+2025-04-14 22:11:00,133 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_221059.jpg
+2025-04-14 22:11:00,161 - Thoát b\u1edfi ng\u01b0\u1eddi dùng
+2025-04-14 22:11:00,513 - \u0110ã gi\u1ea3i phóng tài nguyên
+2025-04-14 22:31:43,075 - \u0110ã m\u1edf ngu\u1ed3n thành công: Camera ID: 0
+2025-04-14 22:31:43,824 - FPS: 13.36
+2025-04-14 22:31:44,164 - FPS: 18.39
+2025-04-14 22:31:44,498 - FPS: 21.10
+2025-04-14 22:31:44,608 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223144.avi
+2025-04-14 22:31:44,619 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,653 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,687 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:44,719 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223144.avi
+2025-04-14 22:31:44,721 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,752 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,786 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,818 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,853 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,884 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,887 - FPS: 22.08
+2025-04-14 22:31:44,918 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,949 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:44,984 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,019 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,051 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,084 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,118 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,150 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,184 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,217 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,220 - FPS: 23.32
+2025-04-14 22:31:45,250 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,288 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,317 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,352 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,385 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,418 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,451 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,485 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,517 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,549 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,552 - FPS: 24.23
+2025-04-14 22:31:45,584 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,617 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,650 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,682 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,718 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,750 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,781 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,816 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223144.jpg
+2025-04-14 22:31:45,852 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:45,882 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223145.avi
+2025-04-14 22:31:45,886 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:45,890 - FPS: 24.88
+2025-04-14 22:31:45,920 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:45,951 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:45,986 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,016 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,050 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,081 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,116 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,148 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,183 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,218 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,222 - FPS: 25.43
+2025-04-14 22:31:46,249 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223145.jpg
+2025-04-14 22:31:46,287 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:46,315 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223146.avi
+2025-04-14 22:31:46,319 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,355 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:46,498 - FPS: 26.30
+2025-04-14 22:31:46,664 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223146.avi
+2025-04-14 22:31:46,667 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,700 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,733 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,764 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,800 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,834 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,837 - FPS: 26.59
+2025-04-14 22:31:46,866 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,885 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,914 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:46,982 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:47,053 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:47,081 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223146.jpg
+2025-04-14 22:31:47,118 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:47,148 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223147.avi
+2025-04-14 22:31:47,151 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,182 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,218 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,221 - FPS: 26.54
+2025-04-14 22:31:47,250 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,280 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,316 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,347 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,383 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,415 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,450 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:47,514 - FPS: 27.04
+2025-04-14 22:31:47,783 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223147.avi
+2025-04-14 22:31:47,786 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,813 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,848 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,850 - FPS: 27.23
+2025-04-14 22:31:47,889 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,921 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:47,949 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:47,982 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223147.avi
+2025-04-14 22:31:47,986 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,017 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,049 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,091 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,131 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,166 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,195 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,198 - FPS: 27.33
+2025-04-14 22:31:48,230 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,282 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,318 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,351 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223147.jpg
+2025-04-14 22:31:48,384 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:48,415 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223148.avi
+2025-04-14 22:31:48,419 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:48,450 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:48,530 - FPS: 27.50
+2025-04-14 22:31:48,817 - FPS: 27.87
+2025-04-14 22:31:48,982 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223148.avi
+2025-04-14 22:31:48,986 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,015 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,049 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,080 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,115 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,157 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,194 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223148.jpg
+2025-04-14 22:31:49,199 - FPS: 27.77
+2025-04-14 22:31:49,229 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:49,260 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223149.avi
+2025-04-14 22:31:49,262 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,295 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,328 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,362 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,396 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,429 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,463 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,495 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,529 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,535 - FPS: 27.87
+2025-04-14 22:31:49,563 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,594 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,627 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,663 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:49,775 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223149.avi
+2025-04-14 22:31:49,778 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,810 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223149.jpg
+2025-04-14 22:31:49,846 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:49,847 - FPS: 28.06
+2025-04-14 22:31:50,096 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223150.avi
+2025-04-14 22:31:50,100 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,126 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,178 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,183 - FPS: 28.14
+2025-04-14 22:31:50,213 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,246 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,277 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,315 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,348 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,380 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,419 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,451 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,485 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:50,514 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223150.avi
+2025-04-14 22:31:50,518 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,523 - FPS: 28.20
+2025-04-14 22:31:50,548 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,583 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,616 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,649 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,701 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223150.jpg
+2025-04-14 22:31:50,730 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:50,848 - FPS: 28.31
+2025-04-14 22:31:51,168 - FPS: 28.42
+2025-04-14 22:31:51,377 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_223151.avi
+2025-04-14 22:31:51,383 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_223151.jpg
+2025-04-14 22:31:51,414 - \u0110ã d\u1eebng ghi video
+2025-04-14 22:31:51,505 - FPS: 28.47
+2025-04-14 22:31:51,603 - Thoát b\u1edfi ng\u01b0\u1eddi dùng
+2025-04-14 22:31:51,953 - \u0110ã gi\u1ea3i phóng tài nguyên
+2025-04-14 23:51:55,795 - Started processing: Camera ID: 0
+2025-04-14 23:51:56,946 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_235156.avi
+2025-04-14 23:51:56,946 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_235156.jpg
+2025-04-14 23:52:05,538 - \u0110ã d\u1eebng x\u1eed lý
+2025-04-14 23:52:08,811 - Started processing: Camera ID: 0
+2025-04-14 23:52:11,904 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_235211.avi
+2025-04-14 23:52:11,904 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_235211.jpg
+2025-04-14 23:52:11,942 - \u0110ã d\u1eebng ghi video
+2025-04-14 23:52:12,312 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_235212.avi
+2025-04-14 23:52:12,312 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_235212.jpg
+2025-04-14 23:52:12,345 - \u0110ã d\u1eebng ghi video
+2025-04-14 23:52:12,691 - B\u1eaft \u0111\u1ea7u ghi video: data/output\motion_20250414_235212.avi
+2025-04-14 23:52:12,691 - L\u01b0u \u1ea3nh ch\u1ee5p: data/output\snapshot_20250414_235212.jpg
+2025-04-14 23:52:24,680 - \u0110ã d\u1eebng x\u1eed lý
+2025-04-14 23:53:34,884 - \u0110ã d\u1eebng x\u1eed lý
+2025-04-14 23:56:19,031 - \u0110ã d\u1eebng x\u1eed lý
